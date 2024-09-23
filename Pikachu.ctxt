@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=Pikachu
 comment1.params=
@@ -13,3 +14,20 @@ comment5.target=void\ quick_attack(Pokemon)
 comment6.params=anyPoorPokemon
 comment6.target=void\ spark(Pokemon)
 numComments=7
+=======
+#BlueJ class context
+comment0.target=Pikachu
+comment1.params=
+comment1.target=Pikachu()
+comment2.params=inputHp\ inputAttack\ inputDefense\ inputSpAtk\ inputSpDef\ inputSpeed
+comment2.target=Pikachu(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=anyPoorPokemon
+comment3.target=void\ volt_tackle(Pokemon)
+comment4.params=anyPoorPokemon
+comment4.target=void\ thunderbolt(Pokemon)
+comment5.params=anyPoorPokemon
+comment5.target=void\ quick_attack(Pokemon)
+comment6.params=anyPoorPokemon
+comment6.target=void\ spark(Pokemon)
+numComments=7
+>>>>>>> 10c3db109ab75c4b5d382a9d479d4a80b249651d

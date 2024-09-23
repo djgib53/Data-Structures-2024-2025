@@ -19,6 +19,7 @@ editor.fx.0.width=814
 editor.fx.0.x=615
 editor.fx.0.y=64
 objectbench.height=92
+<<<<<<< HEAD
 objectbench.width=756
 package.divider.horizontal=0.6
 package.divider.vertical=0.8218349928876245
@@ -28,6 +29,17 @@ package.editor.x=664
 package.editor.y=171
 package.frame.height=662
 package.frame.width=796
+=======
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.7991214057507987
+package.editor.height=394
+package.editor.width=655
+package.editor.x=750
+package.editor.y=188
+package.frame.height=600
+package.frame.width=800
+>>>>>>> 10c3db109ab75c4b5d382a9d479d4a80b249651d
 package.numDependencies=5
 package.numTargets=8
 package.showExtends=true

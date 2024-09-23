@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=CompareTo
 comment1.params=obj
 comment1.target=int\ compareTo(java.lang.Object)
 numComments=2
+=======
+#BlueJ class context
+comment0.target=CompareTo
+comment1.params=obj
+comment1.target=int\ compareTo(java.lang.Object)
+numComments=2
+>>>>>>> 10c3db109ab75c4b5d382a9d479d4a80b249651d

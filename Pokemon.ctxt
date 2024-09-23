@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=Pokemon
 comment1.params=userHp\ userAttack\ userDefense\ userSpAtk\ userSpDef\ userSpeed
@@ -31,3 +32,38 @@ comment8.target=int\ getSpAtk()
 comment9.params=inputSpAtk
 comment9.target=void\ setSpAtk(int)
 numComments=16
+=======
+#BlueJ class context
+comment0.target=Pokemon
+comment1.params=userHp\ userAttack\ userDefense\ userSpAtk\ userSpDef\ userSpeed
+comment1.target=Pokemon(int,\ int,\ int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=int\ getSpDef()
+comment11.params=inputSpDef
+comment11.target=void\ setSpDef(int)
+comment12.params=
+comment12.target=int\ getSpeed()
+comment13.params=inputSpeed
+comment13.target=void\ setSpeed(int)
+comment14.params=obj
+comment14.target=int\ compareTo(java.lang.Object)
+comment15.params=objPokemon
+comment15.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=int\ getHp()
+comment3.params=inputHp
+comment3.target=void\ setHp(int)
+comment4.params=
+comment4.target=int\ getAttack()
+comment5.params=inputAttack
+comment5.target=void\ setAttack(int)
+comment6.params=
+comment6.target=int\ getDefense()
+comment7.params=inputDefense
+comment7.target=void\ setDefense(int)
+comment8.params=
+comment8.target=int\ getSpAtk()
+comment9.params=inputSpAtk
+comment9.target=void\ setSpAtk(int)
+numComments=16
+>>>>>>> 10c3db109ab75c4b5d382a9d479d4a80b249651d

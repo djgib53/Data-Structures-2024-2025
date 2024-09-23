@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Sun Sep 22 20:56:36 EDT 2024
 bluej.teamsettings.git.branch=
 bluej.teamsettings.git.protocol=https
@@ -7,3 +8,22 @@ bluej.teamsettings.user=DonaldGibson
 bluej.teamsettings.vcs=git
 bluej.teamsettings.yourEmail=gibson13@go.stockton.edu
 bluej.teamsettings.yourName=Donald Gibson
+=======
+#Wed Sep 18 17:34:58 EDT 2024
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/djgib53/Data-Structures-2024-2025.git
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=djgib53
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=djgibson0453@gmail.com
+bluej.teamsettings.yourName=Donald Gibson
+>>>>>>> 10c3db109ab75c4b5d382a9d479d4a80b249651d
