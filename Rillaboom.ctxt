@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rillaboom
+comment1.params=
+comment1.target=Rillaboom()
+comment2.params=inputHp\ inputAttack\ inputDefense\ inputSpAtk\ inputSpDef\ inputSpeed
+comment2.target=Rillaboom(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=anyPoorPokemon
+comment3.target=void\ wood_hammer(Pokemon)
+comment4.params=anyPoorPokemon
+comment4.target=void\ knock_off(Pokemon)
+comment5.params=anyPoorPokemon
+comment5.target=void\ slam(Pokemon)
+comment6.params=anyPoorPokemon
+comment6.target=void\ razor_leaf(Pokemon)
+comment7.params=objPokemon
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

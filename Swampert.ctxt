@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Swampert
+comment1.params=
+comment1.target=Swampert()
+comment2.params=inputHp\ inputAttack\ inputDefense\ inputSpAtk\ inputSpDef\ inputSpeed
+comment2.target=Swampert(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=anyPoorPokemon
+comment3.target=void\ earthquake(Pokemon)
+comment4.params=anyPoorPokemon
+comment4.target=void\ hammer_arm(Pokemon)
+comment5.params=anyPoorPokemon
+comment5.target=void\ water_pulse(Pokemon)
+comment6.params=anyPoorPokemon
+comment6.target=void\ take_down(Pokemon)
+comment7.params=objPokemon
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8
